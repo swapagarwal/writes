@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `swap's musings`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Swapnil Agarwal`,
+      summary: `who is currently on a quest to find his Ikigai.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A place to hold my thoughts and reflections from time to time.`,
+    siteUrl: `https://swapnil.net/writes/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `SwapAgarwal`,
     },
   },
   plugins: [
