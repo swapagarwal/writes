@@ -3,7 +3,7 @@ module.exports = {
     title: `swap's musings`,
     author: {
       name: `Swapnil Agarwal`,
-      summary: `who is currently on a quest to find his Ikigai.`,
+      summary: `who's on the quest to find his Ikigai.`,
     },
     description: `A place to hold my thoughts and reflections from time to time.`,
     siteUrl: `https://swapnil.net/writes/`,

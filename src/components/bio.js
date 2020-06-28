@@ -57,11 +57,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        Personal blog by <strong><a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">{author.name}</a></strong>, {author.summary}
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+        Savvy? <a href={`https://buttondown.email/swap`} target="_blank" rel="noopener noreferrer">💌 musings</a> &bull; <a href={`https://tinyletter.com/swap`} target="_blank" rel="noopener noreferrer">✍️ life updates</a> &bull; <a href={`https://www.getrevue.co/profile/swap`} target="_blank" rel="noopener noreferrer">🦄 startup journey</a> &bull; <a href={`https://swap.substack.com/`} target="_blank" rel="noopener noreferrer">🧪 creative lab</a>
+        {` `}
       </p>
     </div>
   )
