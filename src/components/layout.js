@@ -59,9 +59,14 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <div style={{ float: `right` }}>
+          <a href={`rss.xml`} target="_blank" rel="noopener noreferrer">rss</a>
+        </div>
+        <a href={`https://twitter.com/SwapAgarwal`} target="_blank" rel="noopener noreferrer">twitter</a>
+        {' '}&bull;{' '}
+        <a href={`https://github.com/swapagarwal`} target="_blank" rel="noopener noreferrer">github</a>
+        {' '}&bull;{' '}
+        <a href={`https://www.linkedin.com/in/swapagarwal/`} target="_blank" rel="noopener noreferrer">linkedin</a>
       </footer>
     </div>
   )
