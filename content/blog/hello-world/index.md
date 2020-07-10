@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 date: "2020-06-27T00:00:00.000Z"
-description: "Better late than never"
+description: "Contains links to my old newsletters"
 ---
 
 This is a place to hold my thoughts and reflections from time to time.
