@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `swap's musings`,
+    title: `swap's insights`,
     author: {
       name: `Swapnil Agarwal`,
       summary: `who's on the quest to find his Ikigai.`,
