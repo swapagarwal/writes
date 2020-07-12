@@ -5,7 +5,7 @@ module.exports = {
       name: `Swapnil Agarwal`,
       summary: `who's on the quest to find his Ikigai.`,
     },
-    description: `A place to hold my thoughts and reflections from time to time.`,
+    description: `A place to share my learnings from time to time.`,
     siteUrl: `https://swapnil.net/writes/`,
     social: {
       twitter: `SwapAgarwal`,
