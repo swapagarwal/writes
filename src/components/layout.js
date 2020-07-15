@@ -58,7 +58,7 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
+      <footer style={{ marginTop: rhythm(2.5) }}>
         <div style={{ float: `right` }}>
           <a href={`rss.xml`} target="_blank" rel="noopener noreferrer">rss</a>
         </div>
