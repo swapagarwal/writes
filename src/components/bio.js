@@ -59,7 +59,7 @@ const Bio = () => {
       <p>
         Personal blog by <strong><a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">{author.name}</a></strong>, {author.summary}
         {` `}
-        <a href={`https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe`} target="_blank" rel="noopener noreferrer">Subscribe</a> to my newsletter if you'd like to get these posts in your inbox.
+        To get new posts in your inbox, <a href={`https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe`} target="_blank" rel="noopener noreferrer">subscribe</a> to my newsletter.
         {` `}
       </p>
     </div>
