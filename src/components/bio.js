@@ -58,7 +58,7 @@ const Bio = () => {
         }}
       />
       <p style={{ maxWidth: 500 }}>
-        Personal blog by <strong><a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">{author.name}</a></strong>, {author.summary}
+        Personal blog by <strong><a href={`https://swapnil.net/`} target="_blank" rel="noopener noreferrer">{author.name}</a></strong>, {author.summary}
         {` `}
         To get new posts in your inbox, <a href={`https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe`} target="_blank" rel="noopener noreferrer">subscribe</a> to my newsletter.
         {` `}
