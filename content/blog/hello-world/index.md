@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 date: "2020-06-27T00:00:00.000Z"
-description: "Contains links to my old newsletters"
+description: "Links to my old newsletters."
 ---
 
 This is a place to share my learnings from time to time.
