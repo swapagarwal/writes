@@ -1,7 +1,7 @@
 ---
 title: Screenshot Your Mind
 date: "2020-06-28T00:00:00.000Z"
-description: "What? Why? How?"
+description: "A practical way for anyone to get started with journaling."
 ---
 
 TL;DR [Watch this on YouTube](https://www.youtube.com/watch?v=zTYoyGbIx08)
