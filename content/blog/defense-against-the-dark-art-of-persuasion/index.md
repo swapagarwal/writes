@@ -18,7 +18,9 @@ We often use heuristics in our day-to-day lives. For example, if something is *e
 
 Let's say your child saw an ad on TV for an attractive toy just before Christmas and you ended up **promising** to buy it. When you got to the shop, you find that it's out of stock. What do you do? You buy a substitute. Here's the twist: After Christmas, your child sees that ad again and runs up to you **reminding** you that "you promised". What now? Do you see yourself going to a store to keep your word? Pretty plausible, right? I can definitely see myself doing this.
 
-Here's how big toy companies use this behavior to their advantage: They **intentionally** undersupply the stores with the toys they've gotten the parents to promise and supply plenty of other *substitutes*. Call it genius or call it unethical - it doesn't change the fact that this works. Knowing about these practices is the first step towards learning to identify these traps and start saying no!
+Here's how big toy companies use this behavior to their advantage: They **intentionally** undersupply the stores with the toys they've gotten the parents to promise and supply plenty of other *substitutes*. Call it genius or call it unethical - it doesn't change the fact that this works.
+
+> Knowing about these practices is the first step towards learning to identify these traps and start saying no!
 
 2. Coke and Lottery Tickets
 
@@ -32,13 +34,15 @@ The book talks about six "weapons" of influence. I'll go over the ones that I li
 
 1. Reciprocation
 
-Reciprocation is the deadliest of them all. In short, we **mirror** others. If someone's nice to us, we are nice to them. Simple evolutionary surviving tactic.
+> Reciprocation is the deadliest of them all. In short, we mirror others. If someone's nice to us, we are nice to them. Simple evolutionary surviving tactic.
 
 We saw the Coke example above. Another way this could be used as a highly effective compliance technique is using *compromise* (also known as the rejection-then-retreat technique). Suppose you want me to agree to a certain request. You first make a larger request of me, which I will most likely turn down. After I have refused, you make the smaller request that you were really interested in all along. Used correctly, this can greatly increase your chances. Why? Because I view your second request as a **concession** to me. I am now inclined to mirror, that is providing a concession of my own, the only one I have immediately open to me is compliance with your second request.
 
 2. Commitment and Consistency
 
-Let's talk about the commitment and consistency principle. It basically says that once people commit to something, say take a side in an argument, it's very hard to change this. This is because people want to seem consistent with their previous actions.
+Let's talk about the commitment and consistency principle. It basically says that once people commit to something, say take a side in an argument, it's very hard to change this.
+
+> People want to seem consistent with their previous actions.
 
 In horse racing, we can see this behavior easily. If you see a bettor thirty seconds before putting down their money, they are *tentative and uncertain*. Thirty seconds after the deed, they are significantly more *optimistic and self-assured*. The act of making a final decision—in this case, of buying a ticket—is the critical factor. Once a stand has been taken, the **need** for consistency pressures these people to bring what they feel and believe into line with what they had already done. They simply *convince* themselves that they had made the right choice and, no doubt, feel better about it all.
 
